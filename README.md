@@ -11,4 +11,4 @@ To follow along with this tutorial, you'll need:
 
 ### Want to Become Cloud Native?
 
-**Master Kubernetes with our Complete Course:** https://www.udemy.com/course/kubernetes-bootcamp-kubernetes-from-zero-to-cloud/?couponCode=FRAMER_3
+**Master Kubernetes with our complete course:** https://kubernetestraining.io/
