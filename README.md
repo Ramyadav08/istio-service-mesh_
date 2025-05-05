@@ -11,4 +11,4 @@ To follow along with this tutorial, you'll need:
 
 ### Want to Become Cloud Native?
 
-**Master Kubernetes with our complete course:** https://kubernetestraining.io/
+Master Kubernetes with our **Complete Kubernetes Course:** https://kubernetestraining.io/
