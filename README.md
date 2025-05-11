@@ -1,6 +1,6 @@
 # Istio Service Mesh for Kubernetes Microservices
 
-This repo contains all the code needed to follow along with our **[YouTube Tutorial]()** or **[Written Article](https://kubernetestraining.io/blog/istio-kiali-kubernetes-service-mesh-your-microservices)**.
+This repo contains all the code needed to follow along with our **[YouTube Tutorial](https://youtu.be/iFoE5sDyxpM)** or **[Written Article](https://kubernetestraining.io/blog/istio-kiali-kubernetes-service-mesh-your-microservices)**.
 
 ## Prerequisites
 
