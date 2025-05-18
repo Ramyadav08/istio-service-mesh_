@@ -11,4 +11,4 @@ To follow along with this tutorial, you'll need:
 
 ### Become a Cloud and DevOps Engineer
 
-Visit: https://rayanslim.com
+Visit https://rayanslim.com
