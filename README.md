@@ -9,6 +9,6 @@ To follow along with this tutorial, you'll need:
 - kubectl installed and configured ([https://youtu.be/IBkU4dghY0Y](https://youtu.be/IBkU4dghY0Y))
 - Helm installed: ([https://kubernetestraining.io/blog/installing-helm-on-mac-and-windows](https://kubernetestraining.io/blog/installing-helm-on-mac-and-windows))
 
-### Want to Become Cloud Native?
+### Become a Cloud and DevOps Engineer
 
-Master Kubernetes with our **Complete Kubernetes Course:** https://kubernetestraining.io/
+Visit: https://rayanslim.com
